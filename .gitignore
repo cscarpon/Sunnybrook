@@ -1,0 +1,4 @@
+data/
+results/
+Vegetation_Masks/
+FastSAM-x.pt
